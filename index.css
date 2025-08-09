@@ -1,0 +1,14 @@
+.banner {
+    background-color: #b75353d2;
+    padding: 20px;
+    text-align: center;
+}
+ 
+#nahshet-chico {
+    width: 200px;
+    height: auto;
+    border-radius: 50% 20% / 10% 40%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+    
+}
